@@ -3,4 +3,5 @@
 ![2048start](2048start.png)
 
 自动运行结束：
+
 ![2048won](2048won.png)
